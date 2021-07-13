@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc100475-dee0-4234-b7bc-83d09bec4a59" name="Default Changelist" comment="" />
+    <list default="true" id="cc100475-dee0-4234-b7bc-83d09bec4a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Matplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1vB7hiJONNT3fsTeFxP8cPUJdLC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +30,101 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Matplot">
+    <configuration name="Classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chap01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chap01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Introduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Matplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chap01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Chap01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Matplot" />
+        <item itemvalue="Python.Numpy" />
+        <item itemvalue="Python.Classes" />
+        <item itemvalue="Python.Introduction" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,5 +138,31 @@
       <updated>1626023748684</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1851" height="287" key="GridCell.Tab.0.bottom" timestamp="1626198445836">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state width="1851" height="287" key="GridCell.Tab.0.bottom/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626198445836" />
+    <state width="1851" height="287" key="GridCell.Tab.0.center" timestamp="1626198445835">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state width="1851" height="287" key="GridCell.Tab.0.center/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626198445835" />
+    <state width="1851" height="287" key="GridCell.Tab.0.left" timestamp="1626198445834">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state width="1851" height="287" key="GridCell.Tab.0.left/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626198445834" />
+    <state width="1851" height="287" key="GridCell.Tab.0.right" timestamp="1626198445835">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state width="1851" height="287" key="GridCell.Tab.0.right/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626198445835" />
+    <state x="-1257" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1626198043680">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state x="-1257" y="381" key="com.intellij.ide.util.TipDialog/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626198043680" />
+    <state x="-1344" y="140" width="816" height="825" key="find.popup" timestamp="1626024353841">
+      <screen x="-1872" y="25" width="1872" height="1055" />
+    </state>
+    <state x="-1344" y="140" width="816" height="825" key="find.popup/-1872.25.1872.1055/0.25.1680.1025@-1872.25.1872.1055" timestamp="1626024353841" />
   </component>
 </project>
